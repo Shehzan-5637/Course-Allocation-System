@@ -12,5 +12,5 @@ A professional console-based course allocation system built using Java. This pro
 **Shehzan Sohail**  
 🎓 BSCS Student @ Iqra University  
 📍 Karachi, Pakistan  
-📧 your-email@example.com  
+📧 shehzansohail5637@gmail.com  
 🔗 [linkedin.com/in/shehzan-sohail](https://linkedin.com/in/shehzan-sohail)
